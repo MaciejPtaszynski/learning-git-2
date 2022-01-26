@@ -1,0 +1,28 @@
+/* Global */
+
+body {
+    font: Arial;
+}
+    
+h1 {
+   
+   font-style: monospace;
+   font: Arial;
+    }
+    
+h2 {
+    
+    font-style: italic;
+    font-weight: 100;
+    }
+.lines {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr; 
+    grid-template-areas: "left-space poem rigth-space";
+}
+p { 
+    font: Arial;
+    text-align: left;
+    padding: 5px;
+    margin: 0 auto;
+}

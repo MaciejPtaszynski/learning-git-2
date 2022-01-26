@@ -1,0 +1,2 @@
+html-validate index.html
+"html-validate": :npm run html-validate index.html"

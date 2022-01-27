@@ -1,2 +1,2 @@
-html-validate index.html
-"html-validate": :npm run html-validate index.html"
+html-validate *.html
+"html-validate": :npm run html-validate *.html"
